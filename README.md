@@ -2,7 +2,7 @@
 
 Genera archivos de las tablas de multiplicar
 
-Ejecutar este comando
+Ejecutar este comando porfavor
 
 ```
 npm install
