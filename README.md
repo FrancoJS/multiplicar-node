@@ -1,10 +1,9 @@
-## Aplicacion multiplicaion node
+## Aplicacion multiplicación node
 
-genera archivos de las tablas de multiplicar
+Genera archivos de las tablas de multiplicar
 
 Ejecutar este comando
 
 ```
 npm install
-
 ```
