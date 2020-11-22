@@ -1,6 +1,9 @@
-Aplicacion multiplicación node
-genera archivos de las tablas de multiplicar hasta el limite especificado
+## Aplicacion multiplicación node
+
+Genera archivos de las tablas de multiplicar hasta el limite especificado
 
 Ejecutar este comando
 
+```
 npm install
+```
