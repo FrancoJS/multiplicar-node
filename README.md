@@ -1,6 +1,6 @@
-## Aplicacion multiplicaion node
+## Aplicacion multiplicacion node
 
-genera archivos de las tablas de multiplicar
+genera archivos de las tablas de multiplicar hasta el limite especificado
 
 Ejecutar este comando
 
